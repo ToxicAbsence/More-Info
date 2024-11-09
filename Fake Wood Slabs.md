@@ -15,7 +15,7 @@ It's different names:
 - Then it was changed back to "wood slab" in 0.7.2
 - In 0.7.3 it was finally called "Fake Wood Slab" because they added the normal wood slabs to the game aka Oak Slabs.
 
-Can be obtained in these alpha versions through crafting:
+Can be obtained in these alpha versions via crafting:
 
 - 0.3.2 alpha 
 - 0.3.2 alpha J version 
