@@ -2,20 +2,18 @@ Fake Wood Slabs :
 
 - These slabs share the exact same texture as oak slabs.
 - Behave like stone slabs, and are thus fireproof.
-- Need to be mined with a pickaxe in Alpha versions and Silk touch is required in later versions.
 - These are the equivalent to Petrified Oak Slabs in Java Edition.
-- Do not work in crafting recipes that require wooden slabs, such as the daylight detectors or lecterns.
-- starting in 0.6.0 the crafting recipe for them was changed to give 6 slabs instead of 3.
 - 0.7.2 is the last version you can craft Fake Wood Slab and subsequently the last version it can be mined without the use of silk touch.
-- Normal slabs and Fake Wood Slabs can combine in older versions.
-
+- Do not work in crafting recipes that require wood slabs, such as the daylight detectors or lecterns.
+- starting in 0.6.0 the crafting recipe for them was changed to give 6 slabs instead of 3.
 - The double slab variant is obtainable from mining it in 1.8.0.8 or updating to 1.11.0.1 or through UBC.
 
 It's different names:
 
-- Before 0.7.0 it was called "wooden slab"
-- In 0.7.0 the name was changed from "wooden slab" to "tile.stoneSlab.name<"
-- Then changed back to "wooden slab" in 0.7.2
+- In version 0.7.0 and below they were called "wood slab"
+- In 0.7.0 the name was changed from "wood slab" to "tile.stoneSlab.name<"
+- Then it was changed back to "wood slab" in 0.7.2
+- In 0.7.3 it was finally called "Fake Wood Slab" because they added the normal wood slabs to the game aka Oak Slabs.
 
 Can be obtained in these alpha versions through crafting:
 
