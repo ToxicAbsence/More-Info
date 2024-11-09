@@ -11,16 +11,25 @@ Fake Wood Slabs :
 Can be obtained in these alpha versions through crafting:
 
 0.3.2 alpha 
+
 0.3.2 alpha J version 
+
 0.3.3 alpha 
+
 0.3.3 alpha J version
+
 0.4.0 alpha 
+
 0.4.0 alpha J version
+
 0.4.0 alpha rev 2 (untested but should work)
+
 0.4.0 alpha rev 3 (untested but should work)
+
 0.5.0 alpha
+
 0.5.0 alpha J version
--
+
 
 Also obtainable through GBC in these versions:
 
