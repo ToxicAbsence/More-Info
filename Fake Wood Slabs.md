@@ -2,16 +2,18 @@ Fake Wood Slabs :
 
 - These slabs share the exact same texture as oak slabs.
 - Behave like stone slabs, and are thus fireproof.
-- starting in 0.6.0 the crafting recipe for them give 6 slabs instead of 3.
 - Need to be mined with a pickaxe in Alpha versions and Silk touch is required in later versions.
 - These are the equivalent to Petrified Oak Slabs in Java Edition.
 - Do not work in recipes that require wooden slabs, such as the daylight detectors or lecterns.
+- starting in 0.6.0 the crafting recipe for them was changed to give 6 slabs instead of 3.
+- in 0.7.3 the crafting recipe was was further changed to give 1 slab instead of 6 for some reason.
 - The double slab variant is obtainable from mining it in 1.8.0.8 or updating to 1.11.0.1 or through UBC.
 
 It's different names:
 
-- Before 0.7.0 it was called "wood slab"
-- In 0.7.0 the name was changed from "wood slab" to "tile.stoneSlab.name<"
+- Before 0.7.0 it was called "wooden slab"
+- In 0.7.0 the name was changed from "wooden slab" to "tile.stoneSlab.name<"
+- Then changed back to "wooden slab" in 0.7.2
 
 Can be obtained in these alpha versions through crafting:
 
@@ -28,6 +30,8 @@ Can be obtained in these alpha versions through crafting:
 - 0.6.0 alpha
 - 0.6.1 alpha
 - 0.7.0 alpha
+- 0.7.2 alpha
+- 0.7.3 alpha
 
 Also obtainable through GBC in these versions:
 
