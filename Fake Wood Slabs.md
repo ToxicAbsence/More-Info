@@ -33,7 +33,6 @@ Can be obtained in these alpha versions through crafting:
 - 0.7.0 alpha
 - 0.7.2 alpha
 - 0.7.3 alpha
-- 0.7.4 alpha
   
 Also obtainable through GBC in these versions:
 
