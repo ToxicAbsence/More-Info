@@ -14,5 +14,5 @@ Also obtainable through GBC in these versions:
 For info on GBC click HERE
 For info on UBC click HERE
 
----------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/blob/main/Items.md)---------
+---------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/blob/main/All%20Illegal%20Items.md)---------
 
