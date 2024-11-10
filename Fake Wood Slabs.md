@@ -11,8 +11,8 @@ Fake Wood Slabs :
 
 It's different names:
 
-- In version 0.7.0 and below they were called "wood slab"
-- In 0.7.1 the name was changed from "wood slab" to "tile.stoneSlab.name<"
+- In version 0.6.1 and below they were called "wood slab"
+- In 0.7.0 the name was changed from "wood slab" to "tile.stoneSlab.name<"
 - Then it was changed back to "wood slab" in 0.7.2
 - In 0.7.3 it was finally called "Fake Wood Slab" because they added the normal wood slabs to the game aka Oak Slabs.
 
