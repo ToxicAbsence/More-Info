@@ -35,8 +35,44 @@ Can be obtained in these alpha versions via crafting:
 
 Also obtainable through GBC in these versions:
 
-For info on GBC click HERE
-For info on UBC click HERE
+- Edition beta 1.16.0.52 (exclusive to Android; version code: 941160052, 942160052)
+- beta 1.16.0.53
+- beta 1.16.0.54 (exclusive to Android; version code: 941160054, 942160054)
+- beta 1.16.0.55
+- beta 1.16.0.57
+- beta 1.16.0.58
+- beta 1.16.0.59
+- beta 1.16.0.60
+- beta 1.16.0.61
+- beta 1.16.0.63
+- beta 1.16.0.64
+- beta 1.16.0.65 (exclusive to Android)
+- beta 1.16.0.66
+- beta 1.16.0.67
+- beta 1.16.0.68
+- 1.16.0 [(full release (2020); major update)]
+- 1.16.1
+- 1.16.1.03 (Playstation 4 only)
+- 1.16.1.04 (Playstation 4 only)
+- 1.16.10
+- beta 1.16.20.50
+- beta 1.16.20.51 (exclusive to Android)
+- beta 1.16.20.52
+- beta 1.16.20.53
+- beta 1.16.20.54
+- 1.16.20
+- 1.16.21 (exclusive to Nintendo Switch)
+- 1.16.40
+- 1.16.42 (Playstation 4 only)
+- 1.16.50 (iOS and iPadOS only)
+- 1.16.60 (Playstation 4 only)
+- 1.16.61 (Playstation 4 only)
+- beta 1.16.100.50
+- beta 1.16.100.51
+- beta 1.16.100.52
+
+For info on GBC click [HERE]()
+For info on UBC click [HERE]()
 
 ---------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/blob/main/All%20Illegal%20Items.md)---------
 
