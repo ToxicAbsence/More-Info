@@ -1,7 +1,7 @@
 Fake Wood Slabs :
 
 - These slabs share the exact same texture as oak slabs.
-- Behave like stone slabs due to having the samee metadata, and are thus fireproof.
+- Behave like stone slabs due to having the same metadata, and are thus fireproof.
 - These are the equivalent to Petrified Oak Slabs in Java Edition.
 - Do not work in crafting recipes that require wood slabs, such as the daylight detectors or lecterns.
 - Do not work as fuel for any of the 3 furnace varients.
