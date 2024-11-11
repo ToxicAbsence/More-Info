@@ -71,9 +71,9 @@ Also obtainable through GBC in these versions:
 - beta 1.16.100.51
 - beta 1.16.100.52
 
-For info on GBC click [HERE](https://github.com/ToxicAbsence/More-Info/edit/main/Fake%20Wood%20Slabs.md)
+For info on GBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md))
 
-For info on UBC click [HERE](https://github.com/ToxicAbsence/More-Info/edit/main/Fake%20Wood%20Slabs.md)
+For info on UBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md)
 
 ---------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/blob/main/All%20Illegal%20Items.md)---------
 
