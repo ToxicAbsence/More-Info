@@ -9,7 +9,7 @@ Fake Wood Slabs :
 - 0.7.2 is the last version you can craft Fake Wood Slab and subsequently the last version it can be mined without the use of silk touch.
 - Choosing to mine them after 0.7.2 without silk touch will result in it dropping a normal oak slab.
 - 0.12.1 is when silk touch was added using an enchantment table, so you won't be able to obtain placed Fake Wood Slabs till then.
-- Convert to normal oak slabs in Previews 1.21.0.23 and 1.21.0.24.
+- Convert to normal oak slabs in Previews 1.21.0.23 and 1.21.0.24 and return in Preview 1.21.0.25.
 - The double slab variant is obtainable from mining it in 1.8.0.8 or updating to 1.11.0.1 or through UBC.
 
 It's different names:
