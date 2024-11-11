@@ -72,6 +72,7 @@ Also obtainable through GBC in these versions:
 - beta 1.16.100.52
 
 For info on GBC click [HERE]()
+
 For info on UBC click [HERE]()
 
 ---------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/blob/main/All%20Illegal%20Items.md)---------
