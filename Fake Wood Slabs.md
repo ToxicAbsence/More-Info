@@ -4,6 +4,7 @@ Fake Wood Slabs :
 - Behave like stone slabs, and are thus fireproof.
 - These are the equivalent to Petrified Oak Slabs in Java Edition.
 - Do not work in crafting recipes that require wood slabs, such as the daylight detectors or lecterns.
+- Do not work as fuel for any of the 3 furnace varients.
 - Starting in 0.6.0 the crafting recipe for them was changed to give 6 slabs instead of 3.
 - 0.7.2 is the last version you can craft Fake Wood Slab and subsequently the last version it can be mined without the use of silk touch.
 - 0.12.1 is when silk touch was added using an enchantment table, so you won't be able to break the Fake Wood Slabs till then.
