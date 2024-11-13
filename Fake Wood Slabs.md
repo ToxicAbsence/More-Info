@@ -5,6 +5,7 @@ Fake Wood Slabs :
 - These are the equivalent to Petrified Oak Slabs in Java Edition.
 - Do not work in crafting recipes that require wood slabs, such as the daylight detectors or lecterns.
 - Do not work as fuel for any of the 3 furnace varients.
+- Has a higher blast resistance of 6 compared to normal wood slabs which have a blast resistance of 3.
 - Starting in 0.6.0 the crafting recipe for them was changed to give 6 slabs instead of 3.
 - 0.7.2 is the last version you can craft Fake Wood Slab and subsequently the last version it can be mined without the use of silk touch.
 - Choosing to mine them after 0.7.2 without silk touch will result in it dropping a normal oak slab.
