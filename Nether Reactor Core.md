@@ -153,6 +153,6 @@
 - beta 1.16.100.51
 - beta 1.16.100.52
   
-**More info on GBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md)**
+**For info on GBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md)**
 
 -----------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/blob/main/Separate%20Illegal%20Guides/Bedrock%20Illegal%20Items.md)-----------
