@@ -1,4 +1,4 @@
-Nether Reactor Core:
+**Nether Reactor Core:**
 
 - Nether reactor cores were added in 0.5.0.
 - They were because mobile couldn't support the nether at the time.
@@ -17,14 +17,14 @@ Nether Reactor Core:
 - You can mine the Glowing Obsidian in 1.2.13.5.
 - Mining it after 0.12.0 will just drop 3 diamonds and 6 iron.
 
-Nether Reactor Core Chat Messages:
+**Nether Reactor Core Chat Messages:**
 
 - When activating the nether reactor core correctly, it should display the chat message "Client message: Active!"
 - Incorrectly building the nether reactor core will result in the message, "Client message: Not the correct pattern!"
 - If all players are not close enough when activating, the resulting message will be, "Client message: All players need to be close to the reactor."
 - Activating the nether reactor core to close to the built height will result in the message, "Client message: The nether reactor needs to be built lower down"
 
-Items you can get through activating:
+**Items you can get through activating:**
 
 - glowstone dust
 - nether quartz
@@ -39,7 +39,7 @@ Items you can get through activating:
 - pumpkin seeds
 - melon seeds
 
-Can be obtained in these alpha versions via crafting:
+**Can be obtained in these alpha versions via crafting:**
 
 - 0.5.0 alpha
 - 0.6.0 alpha
@@ -115,7 +115,7 @@ Can be obtained in these alpha versions via crafting:
 - 0.11.2 alpha
 - 0.12.0 alpha
 
-Also obtainable through GBC in these versions:
+**Also obtainable through GBC in these versions:**
 
 - Bedrock Edition beta 1.16.0.52 (exclusive to Android; version code: 941160052, 942160052)
 - beta 1.16.0.53
@@ -153,6 +153,6 @@ Also obtainable through GBC in these versions:
 - beta 1.16.100.51
 - beta 1.16.100.52
   
-For info on GBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md)
+**or info on GBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md)**
 
 -----------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/blob/main/Separate%20Illegal%20Guides/Bedrock%20Illegal%20Items.md)-----------
