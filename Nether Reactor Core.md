@@ -10,7 +10,7 @@ Nether Reactor Core:
 - The nether reactor core can also be obtained via BPC Corruption in 1.2.6.60 and through GBC in 1.16.40-1.16.100.
 - Successfully activating the nether reactor core down near the bottom of the world will replace most of the bedrock at the world's bottom with obsidian/netherack
 - 0.12.0 is the last version it can be mined, obtained, and used.
-- In 0.15.0, the default textures of nether reactor cores have been switched with the one in the plastic texture pack.
+- In 0.15.0, the default textures of nether reactor cores were changed to the plastic texture pack textures due to a bug and most likely will never be fixed.
 - In the process of the nether reactor's powering the surrounding cobblestone and gold will turn unto glowing obsidian in the early stages.
 - In the final stages of the nether reactor's activation surrounding glowing obsidan will be replace with normal obsidian.
 - When relogging in the middle of the Nether Reactor Process, it will stop it completely leaving all the glowing obsidian in its place allowing you to mine it later.
