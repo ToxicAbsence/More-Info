@@ -1,19 +1,36 @@
 Nether Reactor Core
-- Nether Reactor Cores were added in 0.5.0 
+- Nether reactor cores were added in 0.5.0 
 - They were because mobile couldn't support the nether at the time.
--  Nether Reactor Cores can be crafted with 3 diamonds down the middle line of the crafting recipe and 6 iron on the outside vertical lines of the crafting recipe.
--  To use a Nether Reactor Core you need 4 gold blocks, 14 cobblestone and 1 nether reactor core. To create the Nether Creator you need to have 3x3 area and put gold blocks on the corners of the 3x3 area and then fill the rest of the 3x3 area for the first layer with cobblestone. For the second layer place 4 cobblestone on top of the gold blocks, and for the 3rd layer place cobblestone above all the cobblestone on the first layer, (make sure to have an air gap between the first layer and the third layer.) Once finished put the Nether Reactor Core in the center of the second layer and right click you will then get a message Client message: Active! if everything works well. You then will get a giant nether spire either made of obisidian if done in 0.5.0 or netherack in 0.6.0-0.12.0.  Items would begin to spawn within the reactor room, including glowstone dust, nether quartz, cacti, sugar canes, both types of mushrooms, bows, bowls, books, doors, beds, pumpkin seeds, and melon seeds. Zombie pigmen were also able to spawn.
--  The Nether Reactor can be mined with any tool.
--  The Nether Reactor Core functionality was removed in 0.12.0 but the block has not been removed from the game. 
--  The Nether Reactor Core can also be obtained via BPC Corruption in 1.2.6.60 and through GBC in 1.16.40-1.16.100.
--  Activating the Nether Reactor Core down near the bottom of the world will replace most of the bedrock at the world's bottom with obsidian/netherack
--  0.12.0 alpha is the last version it can be mined, obtained, and used
--  In 0.15.0, the default textures of nether reactor cores have been switched with the one in the plastic texture pack.
--  In the process of the Nether Reactor's Powering the nether reactor will start getting covered in glowing obsidian in the early stages. In the final stages of the process the Nether Reactor will get covered with obsidian.
--  When relogging in the middle of the Nether Reactor Process, it will stop it completely leaving all the glowing obsidian in its place.
--  You can mine the Glowing Obsidian in 1.2.13.5
--  Mining it after 0.12.0 will just drop 3 diamonds and 6 iron
--   https://www.youtube.com/watch?v=JkGTG5obq9EY
+- Nether reactor cores can be crafted with 3 diamonds and 6 iron.
+- To activate a Nether Reactor Core you need 4 gold blocks, 14 cobblestone and 1 nether reactor core.
+- Activating a nether reactor core will display the chat message "Client message: Active! if everything works well."
+- You then will get a giant nether spire either made of obisidian if done in 0.5.0 or netherack in 0.6.0-0.12.0.
+- The Nether Reactor can be mined with any tool.
+- The Nether Reactor Core functionality was removed in 0.12.0 but the block has not been removed from the game. 
+- The Nether Reactor Core can also be obtained via BPC Corruption in 1.2.6.60 and through GBC in 1.16.40-1.16.100.
+- Successfully activating the Nether Reactor Core down near the bottom of the world will replace most of the bedrock at the world's bottom with obsidian/netherack
+- 0.12.0 is the last version it can be mined, obtained, and used.
+- In 0.15.0, the default textures of nether reactor cores have been switched with the one in the plastic texture pack.
+- In the process of the Nether Reactor's Powering the nether reactor will start getting covered in glowing obsidian in the early stages. In the final stages of the process the Nether Reactor will get covered   with obsidian.
+- When relogging in the middle of the Nether Reactor Process, it will stop it completely leaving all the glowing obsidian in its place.
+- You can mine the Glowing Obsidian in 1.2.13.5
+- Mining it after 0.12.0 will just drop 3 diamonds and 6 iron
+
+Items you can get via activating:
+
+- glowston
+- dust
+- nether quartz
+- cacti 
+- sugar cane tile 
+- brown and red mushrooms
+- bows
+- bowls
+- books
+- doors
+- beds
+- pumpkin seeds
+- melon seeds
 
 Versions Obtainable Through Crafting
 - 0.5.0 alpha
