@@ -1,4 +1,4 @@
-Fake Wood Slabs :
+**Fake Wood Slabs :**
 
 - These slabs share the exact same texture as oak slabs.
 - Behave like stone slabs due to having the same metadata, and are thus fireproof.
@@ -13,14 +13,14 @@ Fake Wood Slabs :
 - Convert to normal oak slabs in Previews 1.21.0.23 and 1.21.0.24 and return in Preview 1.21.0.25.
 - The double slab variant is obtainable from mining it in 1.8.0.8 or updating to 1.11.0.1 or through UBC.
 
-It's different names:
+**It's different names:**
 
 - In version 0.6.1 and below they were called "wood slab"
 - In 0.7.0 the name was changed from "wood slab" to "tile.stoneSlab.name<"
 - Then it was changed back to "wood slab" in 0.7.2
 - In 0.7.3 it was finally called "Fake Wood Slab" to differentiate them from the newly added wood slabs (aka oak slabs).
 
-Can be obtained in these alpha versions via crafting:
+**Can be obtained in these alpha versions via crafting:**
 
 - 0.3.2 alpha 
 - 0.3.2 alpha J version 
@@ -37,7 +37,7 @@ Can be obtained in these alpha versions via crafting:
 - 0.7.0 alpha
 - 0.7.2 alpha
 
-Also obtainable through GBC in these versions:
+**Also obtainable through GBC in these versions:**
 
 - Edition beta 1.16.0.52 (exclusive to Android; version code: 941160052, 942160052)
 - beta 1.16.0.53
@@ -75,9 +75,8 @@ Also obtainable through GBC in these versions:
 - beta 1.16.100.51
 - beta 1.16.100.52
 
-For info on GBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md)
+**For info on GBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md)**
+**For info on UBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md)**
 
-For info on UBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md)
-
----------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/blob/main/Separate%20Illegal%20Guides/Bedrock%20Illegal%20Items.md)---------
+**---------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/blob/main/Separate%20Illegal%20Guides/Bedrock%20Illegal%20Items.md)---------**
 
