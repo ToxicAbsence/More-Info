@@ -1,7 +1,6 @@
-In Progress....
 Nether Reactor Core
 - Nether Reactor Cores were added in 0.5.0 
-- They were added for the reason to bring a small piece of the nether to the overworld.
+- They were because mobile couldn't support the nether at the time.
 -  Nether Reactor Cores can be crafted with 3 diamonds down the middle line of the crafting recipe and 6 iron on the outside vertical lines of the crafting recipe.
 -  To use a Nether Reactor Core you need 4 gold blocks, 14 cobblestone and 1 nether reactor core. To create the Nether Creator you need to have 3x3 area and put gold blocks on the corners of the 3x3 area and then fill the rest of the 3x3 area for the first layer with cobblestone. For the second layer place 4 cobblestone on top of the gold blocks, and for the 3rd layer place cobblestone above all the cobblestone on the first layer, (make sure to have an air gap between the first layer and the third layer.) Once finished put the Nether Reactor Core in the center of the second layer and right click you will then get a message Client message: Active! if everything works well. You then will get a giant nether spire either made of obisidian if done in 0.5.0 or netherack in 0.6.0-0.12.0.  Items would begin to spawn within the reactor room, including glowstone dust, nether quartz, cacti, sugar canes, both types of mushrooms, bows, bowls, books, doors, beds, pumpkin seeds, and melon seeds. Zombie pigmen were also able to spawn.
 -  The Nether Reactor can be mined with any tool.
