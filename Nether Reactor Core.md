@@ -1,13 +1,13 @@
-Nether Reactor Core
-- Nether reactor cores were added in 0.5.0 
+Nether Reactor Core:
+
+- Nether reactor cores were added in 0.5.0.
 - They were because mobile couldn't support the nether at the time.
 - Nether reactor cores can be crafted with 3 diamonds and 6 iron.
-- To activate a Nether Reactor Core you need 4 gold blocks, 14 cobblestone and 1 nether reactor core.
-- Activating a nether reactor core will display the chat message "Client message: Active!" if everything works well.
+- To activate a Nether Reactor Core, you will also need 4 gold blocks and 14 cobblestone.
 - You then will get a giant nether spire either made of obisidian if done in 0.5.0 or netherack in 0.6.0-0.12.0.
-- The Nether Reactor can be mined with any tool.
-- The Nether Reactor Core functionality was removed in 0.12.0 but the block has not been removed from the game. 
-- The Nether Reactor Core can also be obtained via BPC Corruption in 1.2.6.60 and through GBC in 1.16.40-1.16.100.
+- The nether Reactor can be mined with any tool.
+- The nether reactor core's functionality was removed in 0.12.0 but the block has not been removed from the game. 
+- The nether reactor core can also be obtained via BPC Corruption in 1.2.6.60 and through GBC in 1.16.40-1.16.100.
 - Successfully activating the Nether Reactor Core down near the bottom of the world will replace most of the bedrock at the world's bottom with obsidian/netherack
 - 0.12.0 is the last version it can be mined, obtained, and used.
 - In 0.15.0, the default textures of nether reactor cores have been switched with the one in the plastic texture pack.
@@ -15,6 +15,13 @@ Nether Reactor Core
 - When relogging in the middle of the Nether Reactor Process, it will stop it completely leaving all the glowing obsidian in its place.
 - You can mine the Glowing Obsidian in 1.2.13.5
 - Mining it after 0.12.0 will just drop 3 diamonds and 6 iron
+
+Nether Reactor Core Chat Messages:
+
+- When activating the nether reactor core correctly, it should display the chat message "Client message: Active!"
+- Incorrectly building the nether reactor core will result in the message, "Client message: Not the correct pattern!"
+- If all players are not close enough when activating, the resulting message will be, "Client message: All players need to be close to the reactor."
+- Activating the nether reactor core to close to the built height will result in the message, "Client message: The nether reactor needs to be built lower down"
 
 Items you can get via activating:
 
@@ -143,7 +150,6 @@ Also obtainable through GBC in these versions:
 - beta 1.16.100.50
 - beta 1.16.100.51
 - beta 1.16.100.52
-
 For info on GBC click HERE
 
 ---------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/blob/main/All%20Illegal%20Items.md)---------
