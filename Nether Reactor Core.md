@@ -24,7 +24,7 @@ Nether Reactor Core Chat Messages:
 - If all players are not close enough when activating, the resulting message will be, "Client message: All players need to be close to the reactor."
 - Activating the nether reactor core to close to the built height will result in the message, "Client message: The nether reactor needs to be built lower down"
 
-Items you can get via activating:
+Items you can get through activating:
 
 - glowstone dust
 - nether quartz
