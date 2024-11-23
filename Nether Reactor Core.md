@@ -39,7 +39,8 @@ Items you can get via activating:
 - pumpkin seeds
 - melon seeds
 
-Versions Obtainable Through Crafting
+Can be obtained in these alpha versions via crafting:
+
 - 0.5.0 alpha
 - 0.6.0 alpha
 - 0.6.1 alpha
