@@ -3,7 +3,7 @@ Nether Reactor Core
 - They were because mobile couldn't support the nether at the time.
 - Nether reactor cores can be crafted with 3 diamonds and 6 iron.
 - To activate a Nether Reactor Core you need 4 gold blocks, 14 cobblestone and 1 nether reactor core.
-- Activating a nether reactor core will display the chat message "Client message: Active! if everything works well."
+- Activating a nether reactor core will display the chat message "Client message: Active!" if everything works well.
 - You then will get a giant nether spire either made of obisidian if done in 0.5.0 or netherack in 0.6.0-0.12.0.
 - The Nether Reactor can be mined with any tool.
 - The Nether Reactor Core functionality was removed in 0.12.0 but the block has not been removed from the game. 
