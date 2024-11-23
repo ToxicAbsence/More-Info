@@ -1,3 +1,133 @@
-In Progress....
+Nether Reactor Core
+- Nether Reactor Cores were added in 0.5.0 
+- They were added for the reason to bring a small piece of the nether to the overworld.
+-  Nether Reactor Cores can be crafted with 3 diamonds down the middle line of the crafting recipe and 6 iron on the outside vertical lines of the crafting recipe.
+-  To use a Nether Reactor Core you need 4 gold blocks, 14 cobblestone and 1 nether reactor core. To create the Nether Creator you need to have 3x3 area and put gold blocks on the corners of the 3x3 area and then fill the rest of the 3x3 area for the first layer with cobblestone. For the second layer place 4 cobblestone on top of the gold blocks, and for the 3rd layer place cobblestone above all the cobblestone on the first layer, (make sure to have an air gap between the first layer and the third layer.) Once finished put the Nether Reactor Core in the center of the second layer and right click you will then get a message Client message: Active! if everything works well. You then will get a giant nether spire either made of obisidian if done in 0.5.0 or netherack in 0.6.0-0.12.0.  Items would begin to spawn within the reactor room, including glowstone dust, nether quartz, cacti, sugar canes, both types of mushrooms, bows, bowls, books, doors, beds, pumpkin seeds, and melon seeds. Zombie pigmen were also able to spawn.
+-  The Nether Reactor can be mined with any tool.
+-  The Nether Reactor Core functionality was removed in 0.12.0 but the block has not been removed from the game. 
+-  The Nether Reactor Core can also be obtained via BPC Corruption in 1.2.6.60 and through GBC in 1.16.40-1.16.100.
+-  Activating the Nether Reactor Core down near the bottom of the world will replace most of the bedrock at the world's bottom with obsidian/netherack
+-  0.12.0 alpha is the last version it can be mined, obtained, and used
+-  In 0.15.0, the default textures of nether reactor cores have been switched with the one in the plastic texture pack.
+-  In the process of the Nether Reactor's Powering the nether reactor will start getting covered in glowing obsidian in the early stages. In the final stages of the process the Nether Reactor will get covered with obsidian.
+-  When relogging in the middle of the Nether Reactor Process, it will stop it completely leaving all the glowing obsidian in its place.
+-  You can mine the Glowing Obsidian in 1.2.13.5
+-  Mining it after 0.12.0 will just drop 3 diamonds and 6 iron
+-   https://www.youtube.com/watch?v=JkGTG5obq9EY
+
+Versions Obtainable Through Crafting
+- 0.5.0 alpha
+- 0.6.0 alpha
+- 0.6.1 alpha
+- 0.6.2 alpha
+- 0.7.0 alpha
+- 0.7.1 alpha
+- 0.7.2 alpha
+- 0.7.3 alpha
+- 0.7.4 alpha
+- 0.7.5 alpha
+- 0.7.6 alpha
+- 0.8.0 alpha
+- 0.8.0 build 1 alpha
+- 0.8.0 build 2 alpha
+- 0.8.0 build 3 alpha
+- 0.8.0 build 4 alpha
+- 0.8.0 build 5 alpha
+- 0.8.0 build 6 alpha
+- 0.8.0 build 7 alpha
+- 0.8.0 build 8 alpha
+- 0.8.0 alpha
+- 0.8.1 alpha
+- 0.8.2 alpha
+- 0.9.0 build 1 alpha
+- 0.9.0 build 2 alpha
+- 0.9.0 build 3 alpha
+- 0.9.0 build 4 alpha
+- 0.9.0 build 5 alpha
+- 0.9.0 build 6 alpha
+- 0.9.0 build 7 alpha
+- 0.9.0 build 8 alpha
+- 0.9.0 build 9 alpha
+- 0.9.0 build 10 alpha
+- 0.9.0 build 11 alpha
+- 0.9.0 build 12 alpha
+- 0.9.0 alpha
+- 0.9.1 alpha
+- 0.9.2 alpha
+- 0.9.3 alpha
+- 0.9.4 alpha
+- 0.9.5 alpha
+- 0.10.0 build 1 alpha
+- 0.10.0 build 2 alpha
+- 0.10.0 build 3 alpha
+- 0.10.0 build 4 alpha
+- 0.10.0 build 5 alpha
+- 0.10.0 build 6 alpha
+- 0.10.0 build 7 alpha
+- 0.10.0 build 8 alpha
+- 0.10.0 build 9 alpha
+- 0.10.0 alpha
+- 0.10.1 alpha
+- 0.10.2 alpha
+- 0.10.3 alpha
+- 0.10.4 alpha
+- 0.10.5 alpha
+- 0.11.0 build 1 alpha
+- 0.11.0 build 2 alpha
+- 0.11.0 build 3 alpha
+- 0.11.0 build 4 alpha
+- 0.11.0 build 5 alpha
+- 0.11.0 build 6 alpha
+- 0.11.0 build 7 alpha
+- 0.11.0 build 8 alpha
+- 0.11.0 build 9 alpha
+- 0.11.0 build 10 alpha
+- 0.11.0 build 11 alpha
+- 0.11.0 build 12 alpha
+- 0.11.0 build 13 alpha
+- 0.11.0 build 14 alpha
+- 0.11.1 alpha
+- 0.11.2 alpha
+- 0.12.0 alpha
+
+Also obtainable through GBC in these versions:
+
+- Bedrock Edition beta 1.16.0.52 (exclusive to Android; version code: 941160052, 942160052)
+- beta 1.16.0.53
+- beta 1.16.0.54 (exclusive to Android; version code: 941160054, 942160054)
+- beta 1.16.0.55
+- beta 1.16.0.57
+- beta 1.16.0.58
+- beta 1.16.0.59
+- beta 1.16.0.60
+- beta 1.16.0.61
+- beta 1.16.0.63
+- beta 1.16.0.64
+- beta 1.16.0.65 (exclusive to Android)
+- beta 1.16.0.66
+- beta 1.16.0.67
+- beta 1.16.0.68
+- 1.16.0 [(full release (2020); major update)]
+- 1.16.1
+- 1.16.1.03 (Playstation 4 only)
+- 1.16.1.04 (Playstation 4 only)
+- 1.16.10
+- beta 1.16.20.50
+- beta 1.16.20.51 (exclusive to Android)
+- beta 1.16.20.52
+- beta 1.16.20.53
+- beta 1.16.20.54
+- 1.16.20
+- 1.16.21 (exclusive to Nintendo Switch)
+- 1.16.40
+- 1.16.42 (Playstation 4 only)
+- 1.16.50 (iOS and iPadOS only)
+- 1.16.60 (Playstation 4 only)
+- 1.16.61 (Playstation 4 only)
+- beta 1.16.100.50
+- beta 1.16.100.51
+- beta 1.16.100.52
+  
+For info on GBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md)
 
 ---------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/blob/main/All%20Illegal%20Items.md)---------
