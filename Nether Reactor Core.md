@@ -18,8 +18,7 @@ Nether Reactor Core
 
 Items you can get via activating:
 
-- glowston
-- dust
+- glowstone dust
 - nether quartz
 - cacti 
 - sugar cane tile 
