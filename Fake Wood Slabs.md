@@ -4,14 +4,14 @@
 - Behave like stone slabs due to having the same metadata, and are thus fireproof.
 - These are the equivalent to Petrified Oak Slabs in Java Edition.
 - Do not work in crafting recipes that require wood slabs, such as the daylight detectors or lecterns.
-- Do not work as fuel for any of the 3 furnace varients.
-- Has a higher blast resistance of 6 compared to normal wood slabs which have a blast resistance of 3.
-- Starting in 0.6.0 the crafting recipe for them was changed to give 6 slabs instead of 3.
-- 0.7.2 is the last version you can craft Fake Wood Slab and subsequently the last version it can be mined without the use of silk touch.
-- Choosing to mine them after 0.7.2 without silk touch will result in it dropping a normal oak slab.
-- 0.12.1 is when silk touch was added using an enchantment table, so you won't be able to obtain placed Fake Wood Slabs till then.
-- Convert to normal oak slabs in Previews 1.21.0.23 and 1.21.0.24 and return in Preview 1.21.0.25.
-- The double slab variant is obtainable from mining it in 1.8.0.8 or updating to 1.11.0.1 or through UBC.
+- Do not work as fuel for any of the **3 furnace varients**.
+- Has a higher **blast resistance of 6** compared to normal wood slabs which have a **blast resistance of 3**.
+- Starting in **0.6.0** the crafting recipe for them was changed to give **6 slabs** instead of **3**.
+- **0.7.2** is the last version you can craft Fake Wood Slab and subsequently the last version it can be mined without the use of silk touch.
+- Choosing to mine them after **0.7.2** without silk touch will result in it dropping a normal oak slab.
+- **0.12.1** is when silk touch was added using an enchantment table, so you won't be able to obtain placed Fake Wood Slabs till then.
+- Convert to normal oak slabs in Previews **1.21.0.23** and **1.21.0.24** and return in Preview **1.21.0.25**.
+- The double slab variant is obtainable from mining it in **1.8.0.8** or updating to **1.11.0.1** or through UBC.
 
 **It's different names:**
 
