@@ -7,7 +7,7 @@
 - A giant nether spire either made of obsidian if done in **0.5.0** or netherrack in **0.6.0-0.12.0** will appear around the nether reactor core after activating.
 - The nether Reactor can be mined with any tool.
 - The nether reactor core's functionality was removed in **0.12.0** but the block has not been removed from the game. 
-- The nether reactor core can also be obtained via BPC Corruption in **1.2.6.60** and through GBC in **1.16.40-1.16.100.**
+- The nether reactor core can also be obtained via BPC Corruption and through GBC **1.16.40-1.16.100.**
 - Successfully activating the nether reactor core down near the bottom of the world will replace most of the bedrock at the world's bottom with obsidian/netherrack
 - **0.12.0** is the last version it can be mined, obtained, and used.
 - In **0.15.0**, the default textures of nether reactor cores were changed to the plastic texture pack textures due to a bug and most likely will never be fixed.
