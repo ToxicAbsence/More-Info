@@ -56,8 +56,8 @@
 - beta 1.16.0.68
 - 1.16.0 [(full release (2020); major update)]
 - 1.16.1
-- 1.16.1.03 (Playstation 4 only)
-- 1.16.1.04 (Playstation 4 only)
+- 1.16.1.03 (PlayStation 4 only)
+- 1.16.1.04 (PlayStation 4 only)
 - 1.16.10
 - beta 1.16.20.50
 - beta 1.16.20.51 (exclusive to Android)
@@ -67,10 +67,10 @@
 - 1.16.20
 - 1.16.21 (exclusive to Nintendo Switch)
 - 1.16.40
-- 1.16.42 (Playstation 4 only)
+- 1.16.42 (PlayStation 4 only)
 - 1.16.50 (iOS and iPadOS only)
-- 1.16.60 (Playstation 4 only)
-- 1.16.61 (Playstation 4 only)
+- 1.16.60 (PlayStation 4 only)
+- 1.16.61 (PlayStation 4 only)
 - beta 1.16.100.50
 - beta 1.16.100.51
 - beta 1.16.100.52
