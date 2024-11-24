@@ -78,5 +78,5 @@
 **For info on GBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md)**
 **For info on UBC click [HERE](https://github.com/ToxicAbsence/More-Info/blob/main/Fake%20Wood%20Slabs.md)**
 
----------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/blob/main/Separate%20Illegal%20Guides/Bedrock%20Illegal%20Items.md)---------
+---------[BACK TO GUIDE](https://github.com/ToxicAbsence/Guide/tree/main/Separate%20Illegal%20Guides)---------
 
