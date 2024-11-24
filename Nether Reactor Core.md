@@ -2,8 +2,8 @@
 
 - Nether reactor cores were added in **0.5.0.**
 - They were because mobile couldn't support the nether at the time.
-- Nether reactor cores can be crafted with **3** diamonds and **6** iron.
-- To activate a nether reactor core, you will also need **4** gold blocks and **14** cobblestone.
+- Nether reactor cores can be crafted with **3 diamonds** and **6 iron**.
+- To activate a nether reactor core, you will also need **4 gold blocks** and **14 cobblestone**.
 - A giant nether spire either made of obsidian if done in **0.5.0** or netherrack in **0.6.0-0.12.0** will appear around the nether reactor core after activating.
 - The nether Reactor can be mined with any tool.
 - The nether reactor core's functionality was removed in **0.12.0** but the block has not been removed from the game. 
@@ -15,7 +15,7 @@
 - In the final stages of the nether reactor's activation surrounding glowing obsidian will be replace with normal obsidian.
 - When relogging in the middle of the nether reactor process, it will stop it completely leaving all the glowing obsidian in its place allowing you to mine it later.
 - You can mine the glowing obsidian in **1.2.13.5.**
-- Mining it after **0.12.0** will just drop **3** diamonds and **6** iron.
+- Mining it after **0.12.0** will just drop **3 diamonds** and **6 iron**.
 
 **Nether Reactor Core Chat Messages:**
 
