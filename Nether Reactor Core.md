@@ -28,16 +28,16 @@
 
 - glowstone dust
 - nether quartz
-- cacti 
-- sugar cane tile 
+- cactus
+- sugar cane tile
 - brown and red mushrooms
-- bows
-- bowls
-- books
-- doors
-- beds
-- pumpkin seeds
-- melon seeds
+- bow
+- bowl
+- book
+- door
+- bed
+- pumpkin seed
+- melon seed
 
 **Can be obtained in these alpha versions via crafting:**
 
