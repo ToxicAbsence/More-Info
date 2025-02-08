@@ -1,7 +1,7 @@
 **Nether Reactor Core:**
 
 - Nether reactor cores were added in **0.5.0.**
-- They were because mobile couldn't support the nether at the time.
+- They were added because mobile couldn't support the nether at the time.
 - Nether reactor cores can be crafted with **3 diamonds** and **6 iron**.
 - To activate a nether reactor core, you will also need **4 gold blocks** and **14 cobblestone**.
 - A giant nether spire either made of obsidian if done in **0.5.0** or netherrack in **0.6.0-0.12.0** will appear around the nether reactor core after activating.
